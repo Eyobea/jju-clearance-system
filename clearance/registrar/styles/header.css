@@ -1,0 +1,110 @@
+body {
+	background: url(../image/bg.png);
+	color: #000;
+	text-align: center;
+	font-family: times new roman;
+	font-size: 16px;
+	margin: 0px;
+	position: relative;
+	width: device-width;
+}
+
+#banner {
+	
+	font-size: 18px;
+	font-weight: bold;
+	height: 5%;
+	border: none;
+	width: 100%;
+	padding: 2px 0px;
+}
+
+.logo {
+	float: left;
+	width: 30%;
+	color: #fff;
+	padding-top: 6px;
+}
+
+.JJU {
+	float: left;
+	width: 50%;
+	color: #fff;
+	font-size: 30px;
+	margin-top: 2%;
+}
+
+.since {
+	text-align: right;
+	float: right;
+	width: 15%;
+	margin-top: 9%;
+	margin-right: 15px;
+}
+
+#navigation {
+	text-align: left;
+	background: #bbb;
+	font-size: 18px;
+	font-weight: bold;
+	height: 5%;
+	border: none;
+	width: 100%;
+	padding: 2px 0px;
+}
+
+
+
+.time {
+	float: left;
+	width: 25%;
+	text-align: left;
+	margin-left: 1%;
+	padding: 10px 0px;
+}
+
+.nav {
+	float: left;
+	width: 44%;
+	margin-left: 15%;
+	text-align: left;
+	padding: 10px 0px;
+}
+
+.login {
+	float: left;
+	width: 15%;
+	margin-left: -1%;
+	text-align: right;
+	padding: 10px 0px;
+}
+
+.lio {
+	float: right;
+	width: 30%;
+	text-align: right;
+	margin-left: 5%;
+	padding-top: 1%;
+}
+
+.lio li {
+	list-style: none;
+	float: left;
+	margin-left: 16%;
+}
+
+
+a:link,
+a:visited {
+	color: #383838;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover,
+a:active {
+	color: #206BA4;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #ffffff;
+}
